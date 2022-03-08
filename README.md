@@ -2,7 +2,7 @@
 
 # Objetivo
 
-Criar uma API de cadastro de usuarios para aperfersuar os estudos e as qualidades de desenvolvimento.
+Criar uma API de cadastro de usuários para aperfersuar os estudos e as qualidades de desenvolvimento.
 
 # Run
 
@@ -22,8 +22,8 @@ Criar uma API de cadastro de usuarios para aperfersuar os estudos e as qualidade
 
   - Spring
   - Kafka
-  - MYSQL
   - Hexagonal
+  - MYSQL
   - Swagger
   - "Firebird" (??? MIGRATIONS ???) 🚧
   
